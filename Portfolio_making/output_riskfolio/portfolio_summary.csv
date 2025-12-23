@@ -1,0 +1,3 @@
+Portfolio,StartValue,ActualEndValue,PredEndValue,ActualReturn_pct,PredReturn_pct,Error_pct
+Minimum Variance,100000.0,105962.04,105516.74,5.96,5.52,-0.42
+Mean Variance,100000.0,108526.34,107864.64,8.53,7.86,-0.61
