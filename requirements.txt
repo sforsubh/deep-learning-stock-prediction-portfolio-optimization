@@ -1,0 +1,14 @@
+PyPDF2
+requests
+pandas
+openpyxl
+yfinance
+scikit-learn
+tensorflow
+matplotlib
+tqdm
+plotly
+kaleido
+riskfolio-lib
+cvxpy
+streamlit

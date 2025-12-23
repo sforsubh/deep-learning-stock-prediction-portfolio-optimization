@@ -1,0 +1,7 @@
+# first create env
+python -m venv stockprojvenv
+
+ .\stockprojvenv\Scripts\activate
+
+# for running streamlit
+ streamlit run streamlit_app.py
